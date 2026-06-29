@@ -25,7 +25,6 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 import yt_dlp
-import ffmpeg
 # ══════════════════════════════════════
 TOKEN     = "8993206431:AAEFdUQqHpbVb4h0WHXrfMlYqhb9Y8Zypbk"
 DB_FILE   = "muzffa_bot.db"
