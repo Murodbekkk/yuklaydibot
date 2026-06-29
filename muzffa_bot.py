@@ -44,8 +44,8 @@ import yt_dlp
 # ═══════════════════════════════════════════════
 #  SOZLAMALAR — faqat shu yerni o'zgartiring
 # ═══════════════════════════════════════════════
-TOKEN     = "Tokiningizni kiritting"
-DB_FILE   = "muzffa.db"
+TOKEN     = "8993206431:AAEFdUQqHpbVb4h0WHXrfMlYqhb9Y8Zypbk"
+DB_FILE   = "muzffa_bot.db"
 VIDEO_DIR = "saved_videos"
 PER_PAGE  = 10
 TG_MAX    = 49 * 1024 * 1024   # 49 MB Telegram limiti
